@@ -1,6 +1,6 @@
 - Hi, I’m @victortarg
-- I’m interested in ...
-- I’m currently learning javascript and python
+- I’m currently learning Java, html and css
+- Tenho conhecimento em Python e Javascript
 - .
 
 <!---
