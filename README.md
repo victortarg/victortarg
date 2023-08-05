@@ -15,5 +15,3 @@
   <img align="center" alt="Victor-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   
 </div>
-
-   ![Snake animation](https://github.com/victortarg/victortarg/blob/output/github-contribution-grid-snake.svg)
