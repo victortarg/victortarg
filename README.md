@@ -1,4 +1,4 @@
-### Oi, eu sou o Victor Targino👋
+### hi, i'm Victor Targino👋
 
  <div style="display: inline_block">
   <a href="https://github.com/victortarg">
