@@ -1,13 +1,26 @@
-### hi, i'm Victor Targino👋
+### Hi, i'm Victor Targino Morais [<img alt="Victo-Hello" height="30" src="https://github.com/victortarg/victortarg/blob/main/assets/images/gifs/Hey!.gif"/>]
 
+- 🌱 I’m currently learning **Full stacks**
+
+- 📫 How to reach me **victortargino@gmail.com**
+
+<!-- informações do perfil, os commits gerais. Botar quando tiver mais commits
  <div style="display: inline_block">
   <a href="https://github.com/victortarg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victortarg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victortarg&layout=compact&langs_count=7&theme=dark"/>
 </div>
+-->
+
+<div style="display: inline_block">
+  <h3>Follow me:</h3>
+   <a href="https://linkedin.com/in/victor-targino-83564024b" target="new">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="VictorTargino" height="30" width="40" />
+   </a>
+</div>
   
-<div style="display: inline_block"><br>
-  <h3>Hard Skills</h3>
+<div style="display: inline_block">
+  <h3>Hard Skills:</h3>
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Victor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
