@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Full stacks**
 
-- <img alt="Victo-Hello" height="50" src=""/> How to reach me **victortargino@gmail.com**
+- <img alt="Victo-Hello" height="30" src="https://github.com/victortarg/victortarg/blob/main/gifEmail.gif"/> How to reach me **victortargino@gmail.com**
 
 <!-- informações do perfil, os commits gerais. Botar quando tiver mais commits
  <div style="display: inline_block">
