@@ -1,4 +1,4 @@
-### Hi, i'm Victor Targino Morais [<img alt="Victo-Hello" height="30" src="https://github.com/victortarg/victortarg/blob/main/assets/images/gifs/Hey!.gif"/>]
+### Hi, i'm Victor Targino Morais<img alt="Victo-Hello" height="30" src="https://github.com/victortarg/victortarg/blob/main/Hey!.gif"/>
 
 - 🌱 I’m currently learning **Full stacks**
 
