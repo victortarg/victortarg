@@ -1,6 +1,6 @@
 ### Hi, i'm Victor Targino Morais<img alt="Victo-Hello" height="30" src="https://github.com/victortarg/victortarg/blob/main/Hey!.gif"/>
 
-- 🌱 I’m currently learning **Front-End**
+- I’m currently learning **Front-End**
 
 - <img alt="Victo-Hello" height="30" src="https://github.com/victortarg/victortarg/blob/main/gifEmail.gif"/> How to reach me **victortargino@gmail.com**
 
@@ -27,6 +27,7 @@
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Victor-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Victor-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
 </div>
 
 ![Snake animation](https://github.com/victortarg/victortarg/blob/output/github-contribution-grid-snake.svg)
