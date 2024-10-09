@@ -1,6 +1,6 @@
 ### Hi, i'm Victor Targino Morais<img alt="Victo-Hello" height="30" src="https://github.com/victortarg/victortarg/blob/main/Hey!.gif"/>
 
-- 🌱 I’m currently learning **Full stacks**
+- 🌱 I’m currently learning **Front-End**
 
 - <img alt="Victo-Hello" height="30" src="https://github.com/victortarg/victortarg/blob/main/gifEmail.gif"/> How to reach me **victortargino@gmail.com**
 
