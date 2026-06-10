@@ -1,8 +1,8 @@
-### Hi, i'm Victor Targino Morais<img alt="Victo-Hello" height="30" src="https://github.com/victortarg/victortarg/blob/main/Hey!.gif"/>
+### Hi, i'm Victor Targino Morais
 
 - I’m currently learning **Full-Stack**
 
-- <img alt="Victo-Hello" height="30" src="https://github.com/victortarg/victortarg/blob/main/gifEmail.gif"/> How to reach me **victortargino@gmail.com**
+- How to reach me **victortargino@gmail.com**
 
 <!-- informações do perfil, os commits gerais. Botar quando tiver mais commits
  <div style="display: inline_block">
