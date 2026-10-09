@@ -2,7 +2,7 @@
 
 - I’m currently learning **Full-Stack**
 
-- How to reach me **victortargino@gmail.com**
+- How to reach me **vtm8120@gmail.com**
 
 <!-- informações do perfil, os commits gerais. Botar quando tiver mais commits
  <div style="display: inline_block">
